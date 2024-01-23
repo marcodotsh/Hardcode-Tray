@@ -1,0 +1,15 @@
+{
+    "name": "discord-screenaudio",
+    "app_path": [
+        "{userhome}/.local/share/flatpak/app/de.shorsh.discord-screenaudio"
+    ],
+    "icons_path": [
+        "{userhome}/.local/share/flatpak/app/de.shorsh.discord-screenaudio/current/active/files/share/icons/"
+    ],
+    "icons": {
+        "tray": {
+            "original": "hicolor/256x256/apps/de.shorsh.discord-screenaudio.png",
+            "theme": "discord-tray"
+        }
+    }
+}
