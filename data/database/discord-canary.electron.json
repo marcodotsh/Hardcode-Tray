@@ -1,10 +1,12 @@
 {
     "name": "Discord Canary",
     "app_path": [
-        "{userhome}/.config/discordcanary"
+        "{userhome}/.config/discordcanary",
+        "{userhome}/.var/app/com.discordapp.DiscordCanary"
     ],
     "icons_path": [
-        "{userhome}/.config/discordcanary/{discord}/modules/discord_desktop_core/"
+        "{userhome}/.config/discordcanary/{discord}/modules/discord_desktop_core/",
+        "{userhome}/.var/app/com.discordapp.DiscordCanary/config/discordcanary/{discord}/modules/discord_desktop_core/"
     ],
     "binary": "core.asar",
     "script": "electron",
